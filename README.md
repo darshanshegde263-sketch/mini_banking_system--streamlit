@@ -49,3 +49,6 @@ This project helped me improve my understanding of:
 
 ## 📌 Internship
 Developed as part of the YBI Foundation Internship Program.
+
+## App Link
+https://minibankingsystem--app-5wf3qqd5tt8vandvktp72i.streamlit.app/
